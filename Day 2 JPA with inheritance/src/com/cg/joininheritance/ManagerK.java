@@ -1,4 +1,4 @@
-package joininheriance;
+package com.cg.joininheritance;
 
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;

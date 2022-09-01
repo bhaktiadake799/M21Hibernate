@@ -1,4 +1,4 @@
-package joininheriance;
+package com.cg.joininheritance;
 
 import java.io.Serializable;
 

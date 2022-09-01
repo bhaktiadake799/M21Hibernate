@@ -1,4 +1,4 @@
-package joininheriance;
+package com.cg.joininheritance;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
